@@ -3,17 +3,10 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 51;
 	objects = {
 
 /* Begin PBXBuildFile section */
-		3427B6C623D189BB0037E17C /* YMFileListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3427B6C423D189BB0037E17C /* YMFileListViewController.m */; };
-		3427B6C723D189BB0037E17C /* YMFileListViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3427B6C523D189BB0037E17C /* YMFileListViewController.xib */; };
-		3427B6CE23D197BF0037E17C /* YM_file@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3427B6C923D197BE0037E17C /* YM_file@2x.png */; };
-		3427B6CF23D197BF0037E17C /* YM_zip@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3427B6CA23D197BE0037E17C /* YM_zip@2x.png */; };
-		3427B6D023D197BF0037E17C /* YM_folder@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3427B6CB23D197BE0037E17C /* YM_folder@2x.png */; };
-		3427B6D123D197BF0037E17C /* YM_image@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3427B6CC23D197BE0037E17C /* YM_image@2x.png */; };
-		3427B6D223D197BF0037E17C /* YM_pdf@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3427B6CD23D197BE0037E17C /* YM_pdf@2x.png */; };
 		3427B6D423D1BA530037E17C /* documents@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3427B6D323D1BA530037E17C /* documents@2x.png */; };
 		34287CF423CEFE8C00FDED7A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 34287CF323CEFE8C00FDED7A /* AppDelegate.m */; };
 		34287CF723CEFE8C00FDED7A /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 34287CF623CEFE8C00FDED7A /* ViewController.m */; };
@@ -21,20 +14,10 @@
 		34287CFC23CEFE8D00FDED7A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 34287CFB23CEFE8D00FDED7A /* Assets.xcassets */; };
 		34287CFF23CEFE8D00FDED7A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 34287CFD23CEFE8D00FDED7A /* LaunchScreen.storyboard */; };
 		34287D0223CEFE8D00FDED7A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 34287D0123CEFE8D00FDED7A /* main.m */; };
-		34287D0B23CF007C00FDED7A /* YMFileBrower.m in Sources */ = {isa = PBXBuildFile; fileRef = 34287D0A23CF007C00FDED7A /* YMFileBrower.m */; };
-		34287D1123CF062100FDED7A /* YMFileParser.m in Sources */ = {isa = PBXBuildFile; fileRef = 34287D1023CF062100FDED7A /* YMFileParser.m */; };
-		34287D1423CF0EFF00FDED7A /* YMFileBrowerModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 34287D1323CF0EFF00FDED7A /* YMFileBrowerModel.m */; };
+		D51C43B3F3A94F2577D80EB6 /* libPods-FileBrower_OC_Demo.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 47AA3252832E0A464570A1FE /* libPods-FileBrower_OC_Demo.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		3427B6C323D189BB0037E17C /* YMFileListViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = YMFileListViewController.h; sourceTree = "<group>"; };
-		3427B6C423D189BB0037E17C /* YMFileListViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = YMFileListViewController.m; sourceTree = "<group>"; };
-		3427B6C523D189BB0037E17C /* YMFileListViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = YMFileListViewController.xib; sourceTree = "<group>"; };
-		3427B6C923D197BE0037E17C /* YM_file@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "YM_file@2x.png"; sourceTree = "<group>"; };
-		3427B6CA23D197BE0037E17C /* YM_zip@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "YM_zip@2x.png"; sourceTree = "<group>"; };
-		3427B6CB23D197BE0037E17C /* YM_folder@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "YM_folder@2x.png"; sourceTree = "<group>"; };
-		3427B6CC23D197BE0037E17C /* YM_image@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "YM_image@2x.png"; sourceTree = "<group>"; };
-		3427B6CD23D197BE0037E17C /* YM_pdf@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "YM_pdf@2x.png"; sourceTree = "<group>"; };
 		3427B6D323D1BA530037E17C /* documents@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "documents@2x.png"; sourceTree = "<group>"; };
 		34287CEF23CEFE8C00FDED7A /* FileBrower_OC_Demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FileBrower_OC_Demo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		34287CF223CEFE8C00FDED7A /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -46,12 +29,9 @@
 		34287CFE23CEFE8D00FDED7A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		34287D0023CEFE8D00FDED7A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		34287D0123CEFE8D00FDED7A /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		34287D0923CF007C00FDED7A /* YMFileBrower.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = YMFileBrower.h; sourceTree = "<group>"; };
-		34287D0A23CF007C00FDED7A /* YMFileBrower.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = YMFileBrower.m; sourceTree = "<group>"; };
-		34287D0F23CF062100FDED7A /* YMFileParser.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = YMFileParser.h; sourceTree = "<group>"; };
-		34287D1023CF062100FDED7A /* YMFileParser.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = YMFileParser.m; sourceTree = "<group>"; };
-		34287D1223CF0EFF00FDED7A /* YMFileBrowerModel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = YMFileBrowerModel.h; sourceTree = "<group>"; };
-		34287D1323CF0EFF00FDED7A /* YMFileBrowerModel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = YMFileBrowerModel.m; sourceTree = "<group>"; };
+		47AA3252832E0A464570A1FE /* libPods-FileBrower_OC_Demo.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-FileBrower_OC_Demo.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		E64321F32BC7F2DBF83CFA85 /* Pods-FileBrower_OC_Demo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FileBrower_OC_Demo.debug.xcconfig"; path = "Target Support Files/Pods-FileBrower_OC_Demo/Pods-FileBrower_OC_Demo.debug.xcconfig"; sourceTree = "<group>"; };
+		F92FD53A30A073FD822A858F /* Pods-FileBrower_OC_Demo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FileBrower_OC_Demo.release.xcconfig"; path = "Target Support Files/Pods-FileBrower_OC_Demo/Pods-FileBrower_OC_Demo.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,23 +39,20 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D51C43B3F3A94F2577D80EB6 /* libPods-FileBrower_OC_Demo.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		3427B6C823D197050037E17C /* Resources */ = {
+		028900124FC8E37757CB5E4C /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				3427B6C523D189BB0037E17C /* YMFileListViewController.xib */,
-				3427B6C923D197BE0037E17C /* YM_file@2x.png */,
-				3427B6CB23D197BE0037E17C /* YM_folder@2x.png */,
-				3427B6CC23D197BE0037E17C /* YM_image@2x.png */,
-				3427B6CD23D197BE0037E17C /* YM_pdf@2x.png */,
-				3427B6CA23D197BE0037E17C /* YM_zip@2x.png */,
+				E64321F32BC7F2DBF83CFA85 /* Pods-FileBrower_OC_Demo.debug.xcconfig */,
+				F92FD53A30A073FD822A858F /* Pods-FileBrower_OC_Demo.release.xcconfig */,
 			);
-			path = Resources;
+			path = Pods;
 			sourceTree = "<group>";
 		};
 		34287CE623CEFE8C00FDED7A = {
@@ -83,6 +60,8 @@
 			children = (
 				34287CF123CEFE8C00FDED7A /* FileBrower_OC_Demo */,
 				34287CF023CEFE8C00FDED7A /* Products */,
+				028900124FC8E37757CB5E4C /* Pods */,
+				E42D556C75E817BD0C9DCBE7 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -97,7 +76,6 @@
 		34287CF123CEFE8C00FDED7A /* FileBrower_OC_Demo */ = {
 			isa = PBXGroup;
 			children = (
-				34287D0823CEFEA300FDED7A /* FileBrower_OC */,
 				34287CF223CEFE8C00FDED7A /* AppDelegate.h */,
 				34287CF323CEFE8C00FDED7A /* AppDelegate.m */,
 				34287CF523CEFE8C00FDED7A /* ViewController.h */,
@@ -112,20 +90,12 @@
 			path = FileBrower_OC_Demo;
 			sourceTree = "<group>";
 		};
-		34287D0823CEFEA300FDED7A /* FileBrower_OC */ = {
+		E42D556C75E817BD0C9DCBE7 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				3427B6C823D197050037E17C /* Resources */,
-				34287D0923CF007C00FDED7A /* YMFileBrower.h */,
-				34287D0A23CF007C00FDED7A /* YMFileBrower.m */,
-				34287D0F23CF062100FDED7A /* YMFileParser.h */,
-				34287D1023CF062100FDED7A /* YMFileParser.m */,
-				34287D1223CF0EFF00FDED7A /* YMFileBrowerModel.h */,
-				34287D1323CF0EFF00FDED7A /* YMFileBrowerModel.m */,
-				3427B6C323D189BB0037E17C /* YMFileListViewController.h */,
-				3427B6C423D189BB0037E17C /* YMFileListViewController.m */,
+				47AA3252832E0A464570A1FE /* libPods-FileBrower_OC_Demo.a */,
 			);
-			path = FileBrower_OC;
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -135,9 +105,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 34287D0523CEFE8D00FDED7A /* Build configuration list for PBXNativeTarget "FileBrower_OC_Demo" */;
 			buildPhases = (
+				02916D45660EDAF9621A7817 /* [CP] Check Pods Manifest.lock */,
 				34287CEB23CEFE8C00FDED7A /* Sources */,
 				34287CEC23CEFE8C00FDED7A /* Frameworks */,
 				34287CED23CEFE8C00FDED7A /* Resources */,
+				9FB5142C11225AD9014F3669 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -185,33 +157,65 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3427B6D223D197BF0037E17C /* YM_pdf@2x.png in Resources */,
 				34287CFF23CEFE8D00FDED7A /* LaunchScreen.storyboard in Resources */,
-				3427B6CE23D197BF0037E17C /* YM_file@2x.png in Resources */,
 				34287CFC23CEFE8D00FDED7A /* Assets.xcassets in Resources */,
-				3427B6C723D189BB0037E17C /* YMFileListViewController.xib in Resources */,
-				3427B6D123D197BF0037E17C /* YM_image@2x.png in Resources */,
-				3427B6CF23D197BF0037E17C /* YM_zip@2x.png in Resources */,
 				3427B6D423D1BA530037E17C /* documents@2x.png in Resources */,
-				3427B6D023D197BF0037E17C /* YM_folder@2x.png in Resources */,
 				34287CFA23CEFE8D00FDED7A /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		02916D45660EDAF9621A7817 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-FileBrower_OC_Demo-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		9FB5142C11225AD9014F3669 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-FileBrower_OC_Demo/Pods-FileBrower_OC_Demo-resources-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-FileBrower_OC_Demo/Pods-FileBrower_OC_Demo-resources-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-FileBrower_OC_Demo/Pods-FileBrower_OC_Demo-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		34287CEB23CEFE8C00FDED7A /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				34287D0B23CF007C00FDED7A /* YMFileBrower.m in Sources */,
 				34287CF723CEFE8C00FDED7A /* ViewController.m in Sources */,
 				34287D0223CEFE8D00FDED7A /* main.m in Sources */,
 				34287CF423CEFE8C00FDED7A /* AppDelegate.m in Sources */,
-				34287D1123CF062100FDED7A /* YMFileParser.m in Sources */,
-				34287D1423CF0EFF00FDED7A /* YMFileBrowerModel.m in Sources */,
-				3427B6C623D189BB0037E17C /* YMFileListViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -351,6 +355,7 @@
 		};
 		34287D0623CEFE8D00FDED7A /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = E64321F32BC7F2DBF83CFA85 /* Pods-FileBrower_OC_Demo.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -368,6 +373,7 @@
 		};
 		34287D0723CEFE8D00FDED7A /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = F92FD53A30A073FD822A858F /* Pods-FileBrower_OC_Demo.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;

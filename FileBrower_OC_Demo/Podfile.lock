@@ -1,0 +1,16 @@
+PODS:
+  - YMFileBrower (0.0.2)
+
+DEPENDENCIES:
+  - YMFileBrower (from `../`)
+
+EXTERNAL SOURCES:
+  YMFileBrower:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YMFileBrower: 4253b12730a8c76771d40c366abe51b0235b172c
+
+PODFILE CHECKSUM: 9d1b74cba6d3fc9c59b6b9f8de799e1322c482f6
+
+COCOAPODS: 1.8.1

@@ -1,0 +1,4 @@
+platform :ios, '8.0'
+target 'FileBrower_OC_Demo' do     
+pod 'YMFileBrower', :path => '../'
+end

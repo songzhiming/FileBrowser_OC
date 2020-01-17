@@ -1,0 +1,7 @@
+${PODS_ROOT}/Target Support Files/Pods-FileBrower_OC_Demo/Pods-FileBrower_OC_Demo-resources.sh
+${PODS_ROOT}/../../YMFileBrower/Resources/YMFileListViewController.xib
+${PODS_ROOT}/../../YMFileBrower/Resources/YM_file@2x.png
+${PODS_ROOT}/../../YMFileBrower/Resources/YM_folder@2x.png
+${PODS_ROOT}/../../YMFileBrower/Resources/YM_image@2x.png
+${PODS_ROOT}/../../YMFileBrower/Resources/YM_pdf@2x.png
+${PODS_ROOT}/../../YMFileBrower/Resources/YM_zip@2x.png
