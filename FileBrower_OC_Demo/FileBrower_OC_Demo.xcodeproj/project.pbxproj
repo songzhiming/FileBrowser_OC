@@ -68,6 +68,7 @@
 		3427B6C823D197050037E17C /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				3427B6C523D189BB0037E17C /* YMFileListViewController.xib */,
 				3427B6C923D197BE0037E17C /* YM_file@2x.png */,
 				3427B6CB23D197BE0037E17C /* YM_folder@2x.png */,
 				3427B6CC23D197BE0037E17C /* YM_image@2x.png */,
@@ -123,7 +124,6 @@
 				34287D1323CF0EFF00FDED7A /* YMFileBrowerModel.m */,
 				3427B6C323D189BB0037E17C /* YMFileListViewController.h */,
 				3427B6C423D189BB0037E17C /* YMFileListViewController.m */,
-				3427B6C523D189BB0037E17C /* YMFileListViewController.xib */,
 			);
 			path = FileBrower_OC;
 			sourceTree = "<group>";
