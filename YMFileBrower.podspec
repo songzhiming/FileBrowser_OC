@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = "YMFileBrower"
-  s.version = "0.0.1"
+  s.version = "0.0.2"
   s.summary = "YMFileBrower is Finder-style file browser"
   s.license = {"type"=>"MIT", "file"=>"LICENSE"}
   s.authors = {"宋志明"=>"15117951262@163.com"}
